@@ -1,0 +1,14 @@
+<Module>
+ <ModulePrefs title="Basic Confluence Gadget" 
+    title_url="https://owenobyrne.com" 
+    height="200" 
+    author="Owen O Byrne" 
+    author_email="owen.obyrne@gmail.com"
+    thumbnail="https://secure.gravatar.com/avatar/924d29898266b2908b05d622b37e98bf?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FOB-5.png&s=24"
+    /> 
+<Content type="html">
+  <![CDATA[ 
+    <strong>Hello, world!</strong>
+  ]]>
+</Content> 
+</Module>
